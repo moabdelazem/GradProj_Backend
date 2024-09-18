@@ -9,3 +9,4 @@
 - Github Action (CI/CD)
 - Azure Functions
 - Azure Postgresql
+- Other Things
