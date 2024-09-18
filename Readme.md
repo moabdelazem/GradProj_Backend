@@ -1,6 +1,6 @@
 # GradProj - **Untitled Project Yet**
 
-## Build With Golang
+## Backend - Build With Go
 
 ### 1.Tools & Languagees Used In the Stack
 
